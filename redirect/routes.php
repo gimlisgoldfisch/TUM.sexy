@@ -99,11 +99,11 @@ class Route {
         ],
         'dwt'          => [
             'description' => 'Diskrete Wahrscheinlichkeitstheorie',
-            'target'      => 'http://wwwalbers.in.tum.de/lehre/2018SS/dwt/',
+            'target'      => 'http://wwwalbers.in.tum.de/lehre/2019SS/dwt/index.html.de',
         ],
         'theo'         => [
             'description' => 'Einführung in die theoretische Informatik',
-            'target'      => 'https://www7.in.tum.de/um/courses/theo/ss2018/',
+            'target'      => 'http://www21.in.tum.de/teaching/theo/SS19/',
         ],
         'theojudge'    => [
             'description' => 'TUMjudge - Einführung in die theoretische Informatik',
